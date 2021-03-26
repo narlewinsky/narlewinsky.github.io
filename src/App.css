@@ -38,7 +38,7 @@
        and (max-width : 640px) {
 
     .App {
-        padding: 48px;
+        padding: 32px;
     }
 
     .Caption {
@@ -49,6 +49,6 @@
     .Links-Group-Header {
         font-size: 20px;
         line-height: 30px;
-        margin-top: 48px;
+        margin-top: 32px;
     }
 }
