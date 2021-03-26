@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.14a61a3b.chunk.css",
+    "main.css": "/static/css/main.8b23ec09.chunk.css",
     "main.js": "/static/js/main.b5f420f0.chunk.js",
     "main.js.map": "/static/js/main.b5f420f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de0283e3.js",
@@ -10,7 +10,7 @@
     "static/js/3.caa81f8c.chunk.js": "/static/js/3.caa81f8c.chunk.js",
     "static/js/3.caa81f8c.chunk.js.map": "/static/js/3.caa81f8c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.14a61a3b.chunk.css.map": "/static/css/main.14a61a3b.chunk.css.map",
+    "static/css/main.8b23ec09.chunk.css.map": "/static/css/main.8b23ec09.chunk.css.map",
     "static/js/2.2a392e31.chunk.js.LICENSE.txt": "/static/js/2.2a392e31.chunk.js.LICENSE.txt",
     "static/media/500px.0043d502.svg": "/static/media/500px.0043d502.svg",
     "static/media/BandCamp.2128ab92.svg": "/static/media/BandCamp.2128ab92.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.de0283e3.js",
     "static/js/2.2a392e31.chunk.js",
-    "static/css/main.14a61a3b.chunk.css",
+    "static/css/main.8b23ec09.chunk.css",
     "static/js/main.b5f420f0.chunk.js"
   ]
 }
