@@ -50,3 +50,27 @@ a {
     font-weight: 200;
     text-decoration: none;
 }
+
+@media only screen
+       and (max-width : 640px) {
+
+    .Link {
+        margin-top: 24px;
+    }
+
+    .Link-Image {
+        width: 48px;
+        height: 48px;
+        margin-right: 8px;
+    }
+
+    .Link-Content-Caption {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .Link-Content-Description {
+        font-size: 16px;
+        line-height: 14px;
+    }
+}

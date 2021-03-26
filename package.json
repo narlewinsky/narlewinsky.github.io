@@ -1,7 +1,15 @@
 {
-    "name": "narlewinsky-online",
+    "name": "narlewinsky-github-io",
     "version": "0.1.0",
-    "private": true,
+    "description": "Vse ssylki v odnon meste",
+    "author": "Nar Lewinsky",
+    "license": "MIT",
+    "homepage": "http://narlewinsky.online",
+    "keywords": [
+        "nar",
+        "lewinsky",
+        "narlewinsky"
+    ],
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.9",
         "@testing-library/react": "^11.2.5",
