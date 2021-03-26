@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b9138c6.chunk.css",
+    "main.js": "/static/js/main.63db1333.chunk.js",
+    "main.js.map": "/static/js/main.63db1333.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9efe14fc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9efe14fc.js.map",
+    "static/js/2.62d45668.chunk.js": "/static/js/2.62d45668.chunk.js",
+    "static/js/2.62d45668.chunk.js.map": "/static/js/2.62d45668.chunk.js.map",
+    "static/js/3.0e3e00c3.chunk.js": "/static/js/3.0e3e00c3.chunk.js",
+    "static/js/3.0e3e00c3.chunk.js.map": "/static/js/3.0e3e00c3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5b9138c6.chunk.css.map": "/static/css/main.5b9138c6.chunk.css.map",
+    "static/js/2.62d45668.chunk.js.LICENSE.txt": "/static/js/2.62d45668.chunk.js.LICENSE.txt",
+    "static/media/500px.0043d502.svg": "/static/media/500px.0043d502.svg",
+    "static/media/BandCamp.2128ab92.svg": "/static/media/BandCamp.2128ab92.svg",
+    "static/media/Dribbble.57618325.svg": "/static/media/Dribbble.57618325.svg",
+    "static/media/GitHub.59a594ed.svg": "/static/media/GitHub.59a594ed.svg",
+    "static/media/index.css": "/static/media/HelveticaNeue.429952c9.ttf",
+    "static/media/Instagram.4de6e6c3.svg": "/static/media/Instagram.4de6e6c3.svg",
+    "static/media/Klukva.636bef89.svg": "/static/media/Klukva.636bef89.svg",
+    "static/media/Medium.78eb423f.svg": "/static/media/Medium.78eb423f.svg",
+    "static/media/Twitter.f11527f1.svg": "/static/media/Twitter.f11527f1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9efe14fc.js",
+    "static/js/2.62d45668.chunk.js",
+    "static/css/main.5b9138c6.chunk.css",
+    "static/js/main.63db1333.chunk.js"
+  ]
+}
