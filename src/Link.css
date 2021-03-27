@@ -3,6 +3,12 @@ a {
     display: flex;
     margin: 0;
     padding: 0;
+    transition: 0.64s;
+}
+
+a:hover {
+    transition: 0.32s;
+    margin-left: -16px;
 }
 
 .Link {
