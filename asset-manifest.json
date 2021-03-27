@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b23ec09.chunk.css",
-    "main.js": "/static/js/main.b5f420f0.chunk.js",
-    "main.js.map": "/static/js/main.b5f420f0.chunk.js.map",
+    "main.css": "/static/css/main.b1d8dc35.chunk.css",
+    "main.js": "/static/js/main.bf57e44e.chunk.js",
+    "main.js.map": "/static/js/main.bf57e44e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de0283e3.js",
     "runtime-main.js.map": "/static/js/runtime-main.de0283e3.js.map",
     "static/js/2.2a392e31.chunk.js": "/static/js/2.2a392e31.chunk.js",
@@ -10,13 +10,12 @@
     "static/js/3.caa81f8c.chunk.js": "/static/js/3.caa81f8c.chunk.js",
     "static/js/3.caa81f8c.chunk.js.map": "/static/js/3.caa81f8c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8b23ec09.chunk.css.map": "/static/css/main.8b23ec09.chunk.css.map",
+    "static/css/main.b1d8dc35.chunk.css.map": "/static/css/main.b1d8dc35.chunk.css.map",
     "static/js/2.2a392e31.chunk.js.LICENSE.txt": "/static/js/2.2a392e31.chunk.js.LICENSE.txt",
     "static/media/500px.0043d502.svg": "/static/media/500px.0043d502.svg",
     "static/media/BandCamp.2128ab92.svg": "/static/media/BandCamp.2128ab92.svg",
     "static/media/Dribbble.57618325.svg": "/static/media/Dribbble.57618325.svg",
     "static/media/GitHub.59a594ed.svg": "/static/media/GitHub.59a594ed.svg",
-    "static/media/index.css": "/static/media/HelveticaNeue.429952c9.ttf",
     "static/media/Instagram.4de6e6c3.svg": "/static/media/Instagram.4de6e6c3.svg",
     "static/media/Klukva.636bef89.svg": "/static/media/Klukva.636bef89.svg",
     "static/media/Medium.78eb423f.svg": "/static/media/Medium.78eb423f.svg",
@@ -25,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.de0283e3.js",
     "static/js/2.2a392e31.chunk.js",
-    "static/css/main.8b23ec09.chunk.css",
-    "static/js/main.b5f420f0.chunk.js"
+    "static/css/main.b1d8dc35.chunk.css",
+    "static/js/main.bf57e44e.chunk.js"
   ]
 }
