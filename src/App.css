@@ -6,9 +6,11 @@
     margin: 0;
     padding: 0;
     color: #202839;
-    font-family: 'Helvetica Neue Condensed Black', 'Saira Condensed', Helvetica;
+    font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', 'Saira Condensed', Helvetica;
     font-size: 64px;
+    font-weight: 900;
     line-height: 64px;
+    font-stretch: condensed;
     text-transform: uppercase;
 }
 
