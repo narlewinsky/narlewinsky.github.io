@@ -7,9 +7,9 @@
     padding: 0;
     color: #202839;
     font-family: 'HelveticaNeue-CondensedBlack-Local', 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', 'Saira Condensed', Helvetica;
-    font-size: 64px;
+    font-size: 80px;
     font-weight: 900;
-    line-height: 64px;
+    line-height: 72px;
     font-stretch: condensed;
     text-transform: uppercase;
 }
@@ -95,12 +95,16 @@
     }
 }
 
+.Caption-Description {
+    margin-top: 16px;
+}
+
 @media only screen
        and (max-width: 640px) {
 
     .Caption {
         font-size: 48px;
-        line-height: 48px;
+        line-height: 40px;
     }
 
     .Container-Red, .Container-Blue {
@@ -108,7 +112,11 @@
     }
 
     .Links-Group-Header, .Caption-Description, .Caption-Description-Extended {
-        font-size: 18px;
-        line-height: 28px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .Caption-Description {
+        margin-top: 16px;
     }
 }
