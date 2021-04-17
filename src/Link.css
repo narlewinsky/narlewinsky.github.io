@@ -50,7 +50,7 @@ a:hover {
     margin: 0;
     padding: 0;
     color: #202839;
-    font-family: 'Helvetica Neue', 'Roboto', Helvetica;
+    font-family: 'HelveticaNeue-Local', 'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 24px;
     line-height: 24px;
     font-weight: 400;
@@ -61,7 +61,7 @@ a:hover {
     margin: 0;
     padding: 0;
     color: #202839;
-    font-family: 'Helvetica Neue', 'Roboto', Helvetica;
+    font-family: 'HelveticaNeue-Light-Local', np'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 20px;
     line-height: 2-px;
     font-weight: 300;

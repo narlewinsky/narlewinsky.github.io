@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     color: #202839;
-    font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', 'Saira Condensed', Helvetica;
+    font-family: 'HelveticaNeue-CondensedBlack-Local', 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', 'Saira Condensed', Helvetica;
     font-size: 64px;
     font-weight: 900;
     line-height: 64px;
@@ -18,7 +18,7 @@
     margin: 0;
     padding: 0;
     color: #202839;
-    font-family: 'Helvetica Neue', 'Roboto', Helvetica;
+    font-family: 'HelveticaNeue-Local', 'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 24px;
     line-height: 36px;
     font-weight: 400;
@@ -31,7 +31,7 @@
     margin: 0;
     padding: 0;
     color: #ffffff;
-    font-family: 'Helvetica Neue', 'Roboto', Helvetica;
+    font-family: 'HelveticaNeue-Light-Local', 'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 24px;
     line-height: 36px;
     font-weight: 300;
@@ -52,7 +52,7 @@
     margin: 0;
     padding: 0;
     color: #202839;
-    font-family: 'Helvetica Neue', 'Roboto', Helvetica;
+    font-family: 'HelveticaNeue-Local', 'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 24px;
     line-height: 36px;
     font-weight: 400;
