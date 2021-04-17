@@ -63,7 +63,7 @@ a:hover {
     color: #202839;
     font-family: 'HelveticaNeue-Light-Local', 'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 20px;
-    line-height: 2-px;
+    line-height: 20px;
     font-weight: 300;
     text-decoration: none;
 }
@@ -72,16 +72,20 @@ a:hover {
        and (max-width : 640px) {
 
     a {
-        height: 48px;
+        height: 56px;
         padding-top: 4px;
         padding-bottom: 4px;
     }
 
     a:hover {
-        height: 48px;
+        height: 56px;
         padding-top: 4px;
         padding-bottom: 4px;
         margin-left: 0;
+    }
+
+    .Link-Image {
+        margin-right: 8px;
     }
 
     .Link-Content-Caption {

@@ -108,12 +108,12 @@
     }
 
     .Container-Red, .Container-Blue {
-        padding: 48px;
+        padding: 32px;
     }
 
     .Links-Group-Header, .Caption-Description, .Caption-Description-Extended {
         font-size: 16px;
-        line-height: 24px;
+        line-height: 22px;
     }
 
     .Caption-Description {
