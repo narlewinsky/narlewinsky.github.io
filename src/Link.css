@@ -1,28 +1,39 @@
 
-a {
+.Link {
     display: flex;
     margin: 0;
     padding: 0;
+    width: 100%;
+    min-width: 80vw;
+    margin-left: -4px;
+}
+
+a {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: 8px;
     transition: 0.64s;
+    height: 64px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 a:hover {
+    height: 80px;
+    margin-left: -8px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     transition: 0.32s;
-    margin-left: -16px;
-}
-
-.Link {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    margin-top: 24px;
 }
 
 .Link-Image {
     margin: 0;
     padding: 0;
-    width: 64px;
-    height: 64px;
+    height: 100%;
     margin-right: 12px;
 }
 
@@ -40,8 +51,8 @@ a:hover {
     padding: 0;
     color: #202839;
     font-family: 'Helvetica Neue', 'Roboto', Helvetica;
-    font-size: 28px;
-    line-height: 30px;
+    font-size: 24px;
+    line-height: 24px;
     font-weight: 400;
     text-decoration: none;
 }
@@ -51,32 +62,35 @@ a:hover {
     padding: 0;
     color: #202839;
     font-family: 'Helvetica Neue', 'Roboto', Helvetica;
-    font-size: 24px;
-    line-height: 26px;
-    font-weight: 200;
+    font-size: 20px;
+    line-height: 2-px;
+    font-weight: 300;
     text-decoration: none;
 }
 
 @media only screen
        and (max-width : 640px) {
 
-    .Link {
-        margin-top: 16px;
+    a {
+        height: 48px;
+        padding-top: 4px;
+        padding-bottom: 4px;
     }
 
-    .Link-Image {
-        width: 48px;
+    a:hover {
         height: 48px;
-        margin-right: 8px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        margin-left: 0;
     }
 
     .Link-Content-Caption {
         font-size: 20px;
-        line-height: 24px;
+        line-height: 20px;
     }
 
     .Link-Content-Description {
         font-size: 16px;
-        line-height: 14px;
+        line-height: 16px;
     }
 }

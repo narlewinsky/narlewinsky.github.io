@@ -1,6 +1,6 @@
 module.exports = [
     {
-        caption: "Ne stejsnäjsä sväzatjsä so mnoj na lüboj iz socialjnyx platform:",
+        caption: " ",
         content: [
             {
                 caption: "Instagram",
@@ -40,7 +40,7 @@ module.exports = [
         ]
     },
     {
-        caption: "Vse ostaljnyje ukazateli:",
+        caption: " ",
         content: [
             {
                 caption: "Klükva",

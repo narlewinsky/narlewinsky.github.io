@@ -1,5 +1,5 @@
 .App {
-    padding: 64px;
+    margin: 0;
 }
 
 .Caption {
@@ -14,10 +14,38 @@
     text-transform: uppercase;
 }
 
+.Caption-Description {
+    margin: 0;
+    padding: 0;
+    color: #202839;
+    font-family: 'Helvetica Neue', 'Roboto', Helvetica;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 400;
+    max-width: 760px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.Caption-Description-Extended {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-family: 'Helvetica Neue', 'Roboto', Helvetica;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 300;
+    max-width: 800px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
 .Links {
     display: flex;
     flex-direction: column;
     align-items: baseline;
+    margin-top: -16px;
 }
 
 .Links-Group-Header {
@@ -25,10 +53,17 @@
     padding: 0;
     color: #202839;
     font-family: 'Helvetica Neue', 'Roboto', Helvetica;
-    font-size: 28px;
-    line-height: 42px;
+    font-size: 24px;
+    line-height: 36px;
     font-weight: 400;
+}
+
+.Links-Group {
     margin-top: 64px;
+}
+
+.Links-Group:first-child {
+    margin-top: 0;
 }
 
 .Links-Group-Content {
@@ -36,21 +71,44 @@
     padding: 0;
 }
 
-@media only screen
-       and (max-width : 640px) {
+.Container-Red {
+    background: #c3375e;
+    padding: 64px;
+    margin: 0;
+}
 
-    .App {
-        padding: 32px;
+.Container-Blue {
+    background: #202839;
+    padding: 64px;
+    margin: 0;
+}
+
+@media only screen
+       and (min-width: 1280px) {
+
+    .Container-Red {
+        padding-left: 20vw;
     }
+
+    .Container-Blue {
+        padding-left: 20vw;
+    }
+}
+
+@media only screen
+       and (max-width: 640px) {
 
     .Caption {
         font-size: 48px;
         line-height: 48px;
     }
 
-    .Links-Group-Header {
-        font-size: 20px;
-        line-height: 30px;
-        margin-top: 32px;
+    .Container-Red, .Container-Blue {
+        padding: 48px;
+    }
+
+    .Links-Group-Header, .Caption-Description, .Caption-Description-Extended {
+        font-size: 18px;
+        line-height: 28px;
     }
 }

@@ -36,8 +36,8 @@ function getImage(name) {
 class Link extends Component {
     render() {
         return (
-            <a href={this.props.link} target="_blank">
                 <div className="Link">
+                    <a href={this.props.link} target="_blank">
                     <img
                         className="Link-Image"
                         src={getImage(this.props.caption)}
@@ -51,8 +51,8 @@ class Link extends Component {
                             {this.props.description}
                         </p>
                     </div>
+                    </a>
                 </div>
-            </a>
         );
     }
 }

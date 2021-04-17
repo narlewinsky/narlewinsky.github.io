@@ -32,8 +32,21 @@ function generateLinks(data) {
 function App() {
     return (
         <div className="App">
-            <div className="Caption">{header1}<br/>{header2}</div>
-            <div className="Links">{generateLinks(data)}</div>
+            <div className="Container-Red">
+                <div className="Caption">{header1}<br/>{header2}</div>
+                <p className="Caption-Description">
+                    Ne stesnäjsä sväzatjsä so mnoj v lüboj iz socialjnyx platform
+                </p>
+            </div>
+            <div className="Container-Blue">
+                <p className="Caption-Description-Extended">
+                Ja opytnyj projektirovsçik interfejsov (SberBank, eks: UCraft, DevExpress) i diplomirovannyj inżener-programmist.
+                Zanimajusj vozrożdenijem latinicy epoxi russkogo avangarda, vizionerskim iskusstvom i gonzo-dokumentalistkoj.
+                </p>
+            </div>
+            <div className="Container-Red">
+                <div className="Links">{generateLinks(data)}</div>
+            </div>
         </div>
     );
 }
