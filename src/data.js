@@ -34,7 +34,7 @@ module.exports = [
             },
             {
                 caption: "Dribbble",
-                description: "zdesj ja dizjner",
+                description: "zdesj ja dizajner",
                 link: "http://dribbble.com/narlewinsky"
             }
         ]

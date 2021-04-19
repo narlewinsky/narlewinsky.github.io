@@ -8,7 +8,7 @@
     margin-left: -4px;
 }
 
-a {
+.Link a {
     width: 100%;
     display: flex;
     align-items: center;
@@ -17,13 +17,13 @@ a {
     display: flex;
     margin-top: 8px;
     transition: 0.64s;
-    height: 64px;
+    height: 80px;
     padding-top: 8px;
     padding-bottom: 8px;
 }
 
-a:hover {
-    height: 80px;
+.Link a:hover {
+    height: 96px;
     margin-left: -8px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -51,8 +51,8 @@ a:hover {
     padding: 0;
     color: #202839;
     font-family: 'HelveticaNeue-Local', 'Helvetica Neue', 'Roboto', Helvetica;
-    font-size: 24px;
-    line-height: 24px;
+    font-size: 28px;
+    line-height: 28px;
     font-weight: 400;
     text-decoration: none;
 }
@@ -71,14 +71,14 @@ a:hover {
 @media only screen
        and (max-width : 640px) {
 
-    a {
-        height: 56px;
+    .Link a {
+        height: 64px;
         padding-top: 4px;
         padding-bottom: 4px;
     }
 
-    a:hover {
-        height: 56px;
+    .Link a:hover {
+        height: 64px;
         padding-top: 4px;
         padding-bottom: 4px;
         margin-left: 0;

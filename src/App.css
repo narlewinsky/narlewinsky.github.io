@@ -38,8 +38,16 @@
     max-width: 800px;
     margin-top: 0px;
     margin-bottom: 0px;
+    opacity: 0.88;
 }
 
+.Caption-Description-Extended a {
+    color: #c3375e;
+}
+
+.Caption-Description-Extended a:hover {
+    color: #c3375e;
+}
 
 .Links {
     display: flex;
