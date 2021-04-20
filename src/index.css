@@ -16,6 +16,11 @@
   src: local('HelveticaNeue-Light-Local'), url(./typeface/HelveticaNeue-Light.ttf) format('truetype');
 }
 
+@font-face {
+  font-family: 'HelveticaNeue-Medium-Local';
+  src: local('HelveticaNeue-Medium-Local'), url(./typeface/HelveticaNeue-Medium.ttf) format('truetype');
+}
+
 body {
     margin: 0;
     padding: 0;

@@ -40,8 +40,8 @@ function App() {
             </div>
             <div className="Container-Blue">
                 <p className="Caption-Description-Extended">
-                Ja opytnyj projektirovsçik interfejsov (<a href="http://sberbank.ru">SberBank</a>, eks: <a href="http://ucraft.com">UCraft</a>, <a href="http://devexpress.com">DevExpress</a>) i diplomirovannyj inżener-programmist.
-                Zanimajusj vozrożdenijem latinicy epoxi russkogo avangarda i vizionerskim iskusstvom.
+                Ja opytnyj projektirovsçik interfejsov (<a href="http://sberbank.ru" target="_blank">SberBank</a>, eks: <a href="http://ucraft.com" target="_blank">UCraft</a>, <a href="http://devexpress.com" target="_blank">DevExpress</a>) i diplomirovannyj inżener-programmist.
+                Zanimajusj vozrożdenijem latinicy epoxi russkogo avangarda (projekt <a href="http://narlewinsky.online/klukva-translator" target="_blank">Klükva</a>), vizionerskim iskusstvom i abstraktnoj muzykoj (projekt <a href="https://narlewinsky.bandcamp.com/album/an-ode-for-the-dead" target="_blank">Mrityu Dwara</a>).
                 </p>
             </div>
             <div className="Container-Red">
