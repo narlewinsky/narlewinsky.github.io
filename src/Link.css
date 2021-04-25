@@ -52,7 +52,7 @@
     color: #202839;
     font-family: 'HelveticaNeue-Medium-Local', 'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 28px;
-    line-height: 28px;
+    line-height: 32px;
     font-weight: 500;
     text-decoration: none;
 }
@@ -63,7 +63,7 @@
     color: #202839;
     font-family: 'HelveticaNeue-Light-Local', 'Helvetica Neue', 'Roboto', Helvetica;
     font-size: 20px;
-    line-height: 20px;
+    line-height: 24px;
     font-weight: 300;
     text-decoration: none;
 }
@@ -90,11 +90,11 @@
 
     .Link-Content-Caption {
         font-size: 20px;
-        line-height: 20px;
+        line-height: 22px;
     }
 
     .Link-Content-Description {
         font-size: 16px;
-        line-height: 16px;
+        line-height: 18px;
     }
 }

@@ -7,9 +7,9 @@
     padding: 0;
     color: #202839;
     font-family: 'HelveticaNeue-CondensedBlack-Local', 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', 'Saira Condensed', Helvetica;
-    font-size: 80px;
+    font-size: 100px;
     font-weight: 900;
-    line-height: 72px;
+    line-height: 90px;
     font-stretch: condensed;
     text-transform: uppercase;
 }
@@ -111,8 +111,8 @@
        and (max-width: 640px) {
 
     .Caption {
-        font-size: 48px;
-        line-height: 40px;
+        font-size: 56px;
+        line-height: 52px;
     }
 
     .Container-Red, .Container-Blue {
@@ -121,7 +121,7 @@
 
     .Links-Group-Header, .Caption-Description, .Caption-Description-Extended {
         font-size: 16px;
-        line-height: 22px;
+        line-height: 24px;
     }
 
     .Caption-Description {

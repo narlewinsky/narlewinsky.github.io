@@ -41,7 +41,7 @@ function App() {
             <div className="Container-Blue">
                 <p className="Caption-Description-Extended">
                 Ja opytnyj projektirovsçik interfejsov (<a href="http://sberbank.ru" target="_blank">SberBank</a>, eks: <a href="http://ucraft.com" target="_blank">UCraft</a>, <a href="http://devexpress.com" target="_blank">DevExpress</a>) i diplomirovannyj inżener-programmist.
-                Zanimajusj vozrożdenijem latinicy epoxi russkogo avangarda (projekt <a href="http://narlewinsky.online/klukva-translator" target="_blank">Klükva</a>), vizionerskim iskusstvom i abstraktnoj muzykoj (projekt <a href="https://narlewinsky.bandcamp.com/album/an-ode-for-the-dead" target="_blank">Mrityu Dwara</a>).
+                Zanimajusj vozrożdenijem latinicy epoxi russkogo avangarda (<a href="http://narlewinsky.online/klukva-translator" target="_blank">Klükva</a>), vizionerskim iskusstvom, polevoj zapisü i eksperimentaljnoj muzykoj (<a href="https://narlewinsky.bandcamp.com/album/oda-m-rtvyx" target="_blank">Morok</a>).
                 </p>
             </div>
             <div className="Container-Red">
