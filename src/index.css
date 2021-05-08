@@ -26,8 +26,17 @@ body {
     padding: 0;
     color: #202839;
     background: #c3375e;
+    padding-top: 64px;
+    padding-bottom: 64px;
 }
 
 a {
     text-decoration: none;
+}
+
+@media only screen
+       and (max-width: 640px) {
+    body {
+        padding: 0;
+    }
 }
