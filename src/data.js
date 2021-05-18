@@ -8,19 +8,9 @@ module.exports = [
                 link: "http://instagram.com/narlewinsky"
             },
             {
-                caption: "Twitter",
-                description: "zdesj ja mogu läpnutj",
-                link: "http://twitter.com/narlewinsky"
-            },
-            {
                 caption: "Medium",
                 description: "zdesj ja publicist",
                 link: "http://medium.com/@narlewinsky"
-            },
-            {
-                caption: "500px",
-                description: "zdesj ja fotograf",
-                link: "http://500px.com/narlewinsky"
             },
             {
                 caption: "BandCamp",
