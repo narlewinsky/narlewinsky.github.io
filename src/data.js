@@ -4,7 +4,7 @@ module.exports = [
         content: [
             {
                 caption: "Instagram",
-                description: "zdesj ja żivu",
+                description: "zdesj ja zhivu",
                 link: "http://instagram.com/narlewinsky"
             },
             {
@@ -34,7 +34,7 @@ module.exports = [
         content: [
             {
                 caption: "Klükva",
-                description: "zdesj perevodçik na latinicu",
+                description: "zdesj perevodchik na latinicu",
                 link: "http://narlewinsky.online/klukva-translator"
             }
         ]
